@@ -24,11 +24,17 @@ Simply enter the recipient’s name, number, message, and the date/time you want
 ---
 ## Example Output:
 Enter the recipient name: Sanjana
+
 Enter the recipient WhatsApp number with country code (e.g., +12345): +91XXXXXXXXXX
+
 Enter the message you want to send: Hi, this is a message from my WhatsApp scheduler app
+
 Enter date to send the message (YYYY-MM-DD): 2025-10-05
+
 Enter the time to send message (HH:MM in 24hr format): 17:01
+
 Message to be sent to Sanjana at 2025-10-05 17:01:00. Waiting...
+
 Message sent successfully! Message SID: SMXXXXXXXXXXXXXXXXXXXX
 
 ##  Installation & Setup
